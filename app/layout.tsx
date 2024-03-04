@@ -160,7 +160,7 @@ export default async function RootLayout({
           }
         })
       } catch (error) {
-        console.log(error)
+        console.log(error) 
       }
     }
   }
